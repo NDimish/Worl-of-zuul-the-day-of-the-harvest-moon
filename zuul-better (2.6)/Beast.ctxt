@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Beast
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Beast\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=m_Name\ m_Description\ m_Dialouge\ m_Defence\ m_Health\ m_Player\ m_lair\ m_Baittouse\ m_Weakness\ m_game
+comment1.target=Beast(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ Player,\ Room,\ java.lang.String,\ java.lang.String,\ Game)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Beast\r\n
+comment2.params=name
+comment2.target=java.lang.String\ Bait(java.lang.String)
+comment2.text=\r\n\ what\ to\ do\ when\ bait\ used\ on\ beast\r\n
+comment3.params=weapon
+comment3.target=java.lang.String\ Attack(Weapons)
+comment3.text=\r\n\ When\ you\ attack\ the\ beast\r\n
+comment4.params=
+comment4.target=java.lang.String\ Berry()
+comment4.text=\r\n\ Berry\ used\ on\ beast\r\n
+comment5.params=
+comment5.target=java.lang.String\ Encantation()
+comment5.text=\r\n\ Useing\ encantation\r\n
+comment6.params=current
+comment6.target=void\ Reset(Room)
+comment6.text=\r\n\ this\ method\ is\ called\ when\ you\ reset\ the\ room.\ name\ move\ as\ its\ same\ as\ superclass\r\n
+numComments=7

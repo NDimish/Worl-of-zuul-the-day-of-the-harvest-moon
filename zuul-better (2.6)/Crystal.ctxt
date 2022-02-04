@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Crystal
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Crystal\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=m_Name\ m_TrueAction\ m_FalseAction\ weight\ classtouse\ m_type\ m_gem\ m_prefix
+comment1.target=Crystal(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.Class,\ int,\ java.lang.String,\ char)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Crystal\r\n
+comment2.params=command\ room\ player
+comment2.target=java.lang.String\ Use(Command,\ Room,\ Player)
+comment2.text=\r\n\r\nusing\ the\ item\ 2\ commands\r\nused\ for\ crystals\r\n
+comment3.params=item
+comment3.target=java.lang.String\ Use(Items)
+comment3.text=\r\n\r\nusing\ the\ item\ 3\ commands\ with\ item\ class\r\n
+comment4.params=person
+comment4.target=java.lang.String\ Use(Character)
+comment4.text=\r\n\r\nusing\ the\ item\ 3\ commands\ with\ character\ class\r\n
+numComments=5
